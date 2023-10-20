@@ -17,7 +17,9 @@ En la carpeta raiz los notebooks se ejecutan en orden secuencial de la siguiente
 2. **2_Limpieza_datos_operativos.ipynb**: Limpia datos operativos (vuelos) con base en las dimensiones de calidad.
 3. **3_Union_datos_operativos_y_comerciales.ipynb**: Une los datos operativos y comerciales agrupados por hora y muelle para generar datos de regresion por vuelo con base en las ventas del muelle.
 4. **4_Modelo_regresion.ipynb**: Evaluacion de supuestos de regresion, entrenamiento de modelo de regresion y OLS, y evaluacion de metricas.
-(ANEXOS)
+
+### (ANEXOS)
+
 5.  **ANNEXO_0_union_de_datos_operativos_y_comerciales_por_marca.ipynb**: Une los datos operativos y comerciales agrupados por hora y muelle para generar datos de regresion por vuelo con base en las ventas de cada marca, generando un archivo por marca.
 6.  **ANNEXO_1_a_regression_por_marca_random_forest.ipynb**: Experimento preliminar de regresion con random forest, con marcas separadas.
 7.  **ANNEXO_1_b_regression_por_muelle_random_forest.ipynb**: Experimento preliminar de regresion con random forest, con todas las marcas como una sola unidad de muelle.
