@@ -11,6 +11,7 @@ Es la carpeta de resultados y archivos de lectura con los siguientes archivos:
 
 ## Notebooks de entregables
 En la carpeta raiz los notebooks se ejecutan en orden secuencial de la siguiente manera:
+
 0. **PRIMERA ENTREGA.ipynb**: Notebook que describe de manera general la entrega hecha.
 1. **1_Limpieza_datos_comerciales.ipynb**: Limpia datos comerciales (ventas) con base en las dimensiones de calidad.
 2. **2_Limpieza_datos_operativos.ipynb**: Limpia datos operativos (vuelos) con base en las dimensiones de calidad.
